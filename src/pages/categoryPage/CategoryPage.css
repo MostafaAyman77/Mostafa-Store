@@ -1,0 +1,15 @@
+:root {
+  --main-color: #ff6f61; /* A vibrant coral for energy and modern look */
+  --p-color: #5c5470; /* Muted purple-gray for refined body text */
+  --bg-color: #fdf6f0; /* A warm off-white background */
+  --white-color: #ffffff; /* Pure white for contrast and clarity */
+  --color-heading: #2e1f27; /* Deep wine shade for bold headings */
+  --border-color: #e3bcb1; /* Soft rose beige for elegant borders */
+}
+.products {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  padding: 50px 0;
+}
